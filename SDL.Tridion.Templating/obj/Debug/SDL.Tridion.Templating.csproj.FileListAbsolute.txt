@@ -1,0 +1,2 @@
+C:\Users\sbasu\Desktop\New folder\SDL.Tridion.Templating\SDL.Tridion.Templating\obj\Debug\SDL.Tridion.Templating.dll
+C:\Users\sbasu\Desktop\New folder\SDL.Tridion.Templating\SDL.Tridion.Templating\obj\Debug\SDL.Tridion.Templating.pdb

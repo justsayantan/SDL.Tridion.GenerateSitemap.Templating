@@ -1,0 +1,1 @@
+.\TcmUploadAssembly.exe /verbose /folder:tcm:3-5115-2 /targeturl:https://cm-web-745398-dev-ap-northeast-1-tmscr7-dev.tridion.sdlproducts.com /username:SDLCXC\Sbasu /password:Q8JjnMkXN%gG0a1beAup "..\Malvern.Tridion.Templating\bin\Debug\TMSC.Tridion.Templating.dll"
